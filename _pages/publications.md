@@ -22,11 +22,9 @@ author_profile: true
     <ul>
     {% assign previous_year = current_year %}
   {% endif %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-
+  {% include archive-single-publications.html %}
   {% if forloop.last %}
     </ul>
   {% endif %}
 {% endfor %}
-
 
