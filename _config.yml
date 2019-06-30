@@ -83,8 +83,8 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "AndreasHauptmann_MFO.jpg"
   bio              : "Born in Germany, Taught in Finland"
-  location         : "Location"
-  employer         :
+  location         : "Finland"
+  employer         : "University of Oulu, Finland"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fi/citations?user=y8nRmTYAAAAJ&hl=en"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "asHauptmann"
   google_plus      :
   keybase          :
   instagram        :
