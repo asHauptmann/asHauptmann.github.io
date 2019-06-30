@@ -13,9 +13,14 @@ You can also find my articles on <u><a href="{{"https://scholar.google.fi/citati
 <u><b>Submitted</b></u><br>
 </font>
 
+{% for post in site.preprints reversed %}
+  {% include archive-single-publications.html %}
+{% endfor %}
+
 <font size="5">
 <u><b>Published</b></u><br>
 </font>
+
 
 {% for post in site.publications reversed %}
   {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
