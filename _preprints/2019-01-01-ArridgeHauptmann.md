@@ -1,6 +1,6 @@
 ---
 title: "Networks for Nonlinear Diffusion Problems in Imaging"
-collection: publications
+collection: preprints
 authors: 'S. Arridge and A. Hauptmann'
 date: 2019-01-01
 venue: 'arXiv'

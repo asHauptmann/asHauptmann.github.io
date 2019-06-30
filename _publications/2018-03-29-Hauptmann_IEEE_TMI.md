@@ -1,5 +1,5 @@
 ---
-title: "X-Model-based learning for accelerated, limited-view 3-d photoacoustic tomography"
+title: "Model-based learning for accelerated, limited-view 3-d photoacoustic tomography"
 collection: publications
 authors: 'A. Hauptmann, F. Lucka, M. Betcke, N. Huynh, J. Adler, B. Cox, P. Beard, S. Ourselin, S. Arridge'
 date: 2018-03-29

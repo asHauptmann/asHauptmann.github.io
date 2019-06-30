@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on <u><a href="{{"https://scholar.google.fi/citations?user=y8nRmTYAAAAJ&hl=en"}}">my Google Scholar profile</a>.</u>
 
 <font size="5">
-<u><b>Submitted</b></u><br>
+<b><u>Submitted</u></b><br>
 </font>
 
 {% for post in site.preprints reversed %}
@@ -18,7 +18,7 @@ You can also find my articles on <u><a href="{{"https://scholar.google.fi/citati
 {% endfor %}
 
 <font size="5">
-<u><b>Published</b></u><br>
+<b><u>Published</u></b><br>
 </font>
 
 

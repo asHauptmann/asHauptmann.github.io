@@ -1,5 +1,5 @@
 ---
-title: "Model-based learning for accelerated, limited-view 3-d photoacoustic tomography"
+title: "Deep D-Bar: Real-Time Electrical Impedance Tomography Imaging With Deep Neural Networks"
 collection: publications
 authors: 'SJ. Hamilton and A. Hauptmann'
 date: 2018-08-01
