@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "New page under construction"
+title: "Page under construction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-test
-
----
-
-test2
+Please come back later
