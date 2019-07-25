@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-For a recent 
+Publications are now updated.
 
 {% for post in site.posts reversed %}
   {% include archive-single.html %}
