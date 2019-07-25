@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Please come back later
+For a recent 
+
+{% for post in site.posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
