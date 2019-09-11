@@ -1,7 +1,7 @@
 ---
 title: "Real-time cardiovascular MR with spatio-temporal artifact suppression using deep learning - proof of concept in congenital heart disease"
 collection: publications
-comment: '(Editor's pick)'
+comment: "(Editor's pick)"
 authors: 'A. Hauptmann, S. Arridge, F. Lucka, V. Muthurangu, and J. Steeden'
 date: 2019-03-01
 venue: 'Magnetic Resonance in Medicine'
