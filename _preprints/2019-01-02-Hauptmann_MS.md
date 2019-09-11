@@ -1,5 +1,5 @@
 ---
-title: "Networks for Nonlinear Diffusion Problems in Imaging"
+title: "Multi-Scale Learned Iterative Reconstruction"
 collection: preprints
 authors: 'S. Arridge and A. Hauptmann'
 date: 2019-01-02
