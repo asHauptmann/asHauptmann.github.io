@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "News"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,3 @@ redirect_from:
 
 Publications are now updated.
 
-{% for post in site.posts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
