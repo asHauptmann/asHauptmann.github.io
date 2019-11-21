@@ -13,6 +13,3 @@ Currently you can find my updated publication list and some blog posts. These pa
 
 <b><u>News</u></b><br>
 
-We currently have a job opening for a postdoc position in our Inverse Problems group. If you are interested in Computational Inverse Problems, plese apply 
-<u><a href="{{"https://rekry.saima.fi/certiahome/open_job_view.html?did=5600&jc=1&id=00007905&lang=en"}}">here</a>.</u>
-
