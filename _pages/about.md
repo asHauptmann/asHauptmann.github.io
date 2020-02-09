@@ -20,5 +20,5 @@ Currently you can find my updated publication list and some blog posts. These pa
 New grant approved for a 2 year project with Lassi Roininen (LUT) and Ozan Öktem (KTH) on 
 optimizing sawing patterns to improve sustainability in the sawing industry. 
 
-Postdoc position will soon for a starting date in October 2020!
+Postdoc position will open soon for a starting date in October 2020!
 
