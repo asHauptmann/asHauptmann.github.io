@@ -184,6 +184,9 @@ collections:
   preprints:
     output: true
     permalink: /:collection/:path/  
+  accepted:
+    output: true
+    permalink: /:collection/:path/      
   portfolio:
     output: true
     permalink: /:collection/:path/
