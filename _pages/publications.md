@@ -17,6 +17,17 @@ You can also find my articles on <u><a href="{{"https://scholar.google.fi/citati
   {% include archive-single-publications.html %}
 {% endfor %}
 
+
+<font size="5">
+<b><u>Accepted</u></b><br>
+</font>
+
+{% for post in site.accepted reversed %}
+  {% include archive-single-publications.html %}
+{% endfor %}
+
+
+
 <font size="5">
 <b><u>Published</u></b><br>
 </font>

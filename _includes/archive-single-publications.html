@@ -36,6 +36,10 @@
           <p><b>{{title}}</b> {% if post.comment %} {{post.comment}} {% endif %}
           <br>{{ post.authors }}<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {% if post.paperlink %}<a href=" {{ post.paperlink }} "><u>(Link)</u></a>{% endif %} 
           <br>{% if post.paperurl %}Download <a href=" {{ post.paperurl }} "><u>here</u></a>{% endif %} </p>
+        {% elsif post.collection == 'accepted' %}
+          <p><b>{{title}}</b> {% if post.comment %} {{post.comment}} {% endif %}
+          <br>{{ post.authors }}<br>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {% if post.paperlink %}<a href=" {{ post.paperlink }} "><u>(Link)</u></a>{% endif %} 
+          <br>{% if post.paperurl %}Download <a href=" {{ post.paperurl }} "><u>here</u></a>{% endif %} </p>  
         {% elsif post.collection == 'preprints' %}
           <p><b>{{title}}</b><br>{{ post.authors }} {% if post.venue %}<br>Accepted in <i>{{ post.venue }}</i>{% endif %}
           <br>{% if post.paperurl %}Download <a href=" {{ post.paperurl }} "><u>here</u></a>{% endif %}</p>
