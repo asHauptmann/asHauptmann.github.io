@@ -1,6 +1,6 @@
 ---
 title: "Multi-Scale Learned Iterative Reconstruction"
-collection: accepted
+collection: published
 authors: 'A. Hauptmann, J. Adler, S. Arridge, and O. Öktem'
 date: 2020-04-27
 venue: 'IEEE Transactions on Computational Imaging'
