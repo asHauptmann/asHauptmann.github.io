@@ -15,6 +15,13 @@ Currently you can find my updated publication list and some blog posts. These pa
 <b><u>News</u></b><br>
 </font>
 
+
+<b>Academy Research Fellow: Accurate Imaging with Sound and Light (AI-SOL) </b><br>
+The project will concentrate on providing necessary methodological advances to enable large-scale 3D photoacoustic imaging for in vivo applications. 
+The funding will allow for one PhD student within the project, related announcements will follow. 
+The news from the academy can be found here:
+<u><a href="{{"https://www.aka.fi/en/about-us/whats-new/press-releases/2021/academy-research-fellows-of-high-international-quality-selected-in-natural-sciences-and-engineering"}}">(link)</a>.</u>
+
 <b>Deep learning in photoacoustic tomography: current approaches and future directions</b><br>
 Our review with Ben Cox is published in the journal for biomedical optics.
 We put learned image reconstruction within photoacoustic tomography into context, review different approaches and provide a tutorial style introduction for others who want to get started.
