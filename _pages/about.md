@@ -18,7 +18,7 @@ Currently you can find my updated publication list and some news. These pages ma
 
 <b>Nuorten Tiedeakatemia - Young Academy Finland</b><br>
 I am honoured to be elected as member of the Young Academy of Finland for a 4 year term. 
-<u><a href="{{""}}">(link)</a>.</u>
+<u><a href="{{"https://nuortentiedeakatemia.fi/2022/06/08/nuorten-tiedeakatemiaan-22-uutta-jasenta-joukossa-avoimen-jasenhaun-kautta-loytyneita-ehdokkaita/"}}">(link)</a>.</u>
 
 
 <b>Academy Research Fellow: Accurate Imaging with Sound and Light (AI-SOL) </b><br>
