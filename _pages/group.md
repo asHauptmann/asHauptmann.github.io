@@ -12,9 +12,42 @@ Our research group in Computational Mathematics and Inverse Problems of the Rese
 Here you will find current and previous members. (Disclaimer: Currently being edited)
 
 <font size="5">
-<b><u>Current members</u></b>
+<b><u>Current members</u></b><br>
+</font>
+<br>
+
+<font size="4">
+<b><u>Postdocs</u></b><br>
 </font>
 
 <font size="3">
-PhD student 1
-PhD student 2
+Jenni Poimala <br>
+Snizhana Ross <br>
+
+<font size="4">
+<b><u>PhD Students</u></b><br>
+</font>
+
+<font size="3">
+Arttu Arja <br>
+Anssi Manninen <br>
+Hanna Pulkkinen <br>
+
+
+<font size="4">
+<b><u>Master Students</u></b><br>
+</font>
+
+<font size="3">
+Vili Pelttari <br>
+Iina Leppänen <br>
+
+
+<font size="5">
+<b><u>Former members</u></b><br>
+</font>
+<br>
+
+Sebastian Springer
+
+
