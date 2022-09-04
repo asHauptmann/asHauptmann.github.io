@@ -2,10 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Blog Posts test"
-    url: /blog/
   - title: "Research group"
-    url: /test/
+    url: /group_page/
+#  - title: "Blog Posts test"
+#    url: /blog/
 #    
 #
 #  - title: "Talks"

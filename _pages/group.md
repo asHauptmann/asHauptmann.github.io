@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Group"
-permalink: /test/
+permalink: /group_page/
 author_profile: true
 ---
 
