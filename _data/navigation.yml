@@ -6,8 +6,8 @@ main:
 #   - title: "Research group"
 #     url: /group/
 #    
-#  - title: "Blog Posts"
-#    url: /blog/
+ - title: "Blog Posts"
+   url: /blog/
 #
 #  - title: "Talks"
 #    url: /talks/    
