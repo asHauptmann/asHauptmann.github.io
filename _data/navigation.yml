@@ -4,10 +4,8 @@ main:
     url: /publications/
   - title: "Blog Posts"
     url: /blog/
-
-
-#   - title: "Research group"
-#     url: /group/
+  - title: "Research group"
+    url: /group/
 #    
 #
 #  - title: "Talks"
