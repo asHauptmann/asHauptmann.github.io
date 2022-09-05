@@ -8,13 +8,12 @@ author_profile: true
 {% include base_path %}
 
 Our research group in Computational Mathematics and Inverse Problems of the Research Unit of Mathematical Sciences, University of Oulu.
-<br>
-Here you will find current and previous members. (Disclaimer: Currently being edited)
+<br><br>
+Here you will find current and previous members.
 
 <font size="5">
 <b><u>Current members</u></b><br>
 </font>
-<br>
 
 <font size="4">
 <b><u>Postdocs</u></b><br>
@@ -29,7 +28,7 @@ Snizhana Ross <br>
 </font>
 
 <font size="3">
-Arttu Arja <br>
+Arttu Arjas <br>
 Anssi Manninen <br>
 Hanna Pulkkinen <br>
 
@@ -46,8 +45,6 @@ Iina Leppänen <br>
 <font size="5">
 <b><u>Former members</u></b><br>
 </font>
-<br>
-
-Sebastian Springer
+Sebastian Springer (Postdoc)
 
 
