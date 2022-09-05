@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Our research group in Computational Mathematics and Inverse Problems of the Research Unit of Mathematical Sciences, University of Oulu.
-<br><br>
-Here you will find current and previous members.
+Here you can find current and former members of our research group in Computational Mathematics and Inverse Problems.
+We are located within the Research Unit of Mathematical Sciences, University of Oulu.
+
+
 
 <font size="5">
 <b><u>Current members</u></b><br>
@@ -42,6 +43,7 @@ Vili Pelttari <br>
 Iina Leppänen <br>
 
 
+<br>
 <font size="5">
 <b><u>Former members</u></b><br>
 </font>
