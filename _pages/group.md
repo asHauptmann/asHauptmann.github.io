@@ -32,7 +32,7 @@ Snizhana Ross <br>
 Arttu Arjas <br>
 Anssi Manninen <br>
 Hanna Pulkkinen <br>
-Jaakko Kultima (supervised by Valery Serov)<br>
+Jaakko Kultima (supervised by Valery Serov) <br>
 
 
 <font size="4">
