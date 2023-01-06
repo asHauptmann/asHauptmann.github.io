@@ -16,6 +16,12 @@ Currently you can find my updated publication list and some news. These pages ma
 </font>
 
 
+<b>Learned Reconstruction Methods With Convergence Guarantees: A survey of concepts and applications</b><br>
+In our new survey paper published in the IEEE Signal Processing Magazine, we discuss learned image reconstruction methods that come with convergence guarantees. 
+Helping us to understand these methods theoretically and challenging the the notion that learned approaches are pure black-boxes:
+<u><a href="{{"https://ieeexplore.ieee.org/document/10004773"}}">(link)</a>.</u>
+
+
 <b>Nuorten Tiedeakatemia - Young Academy Finland</b><br>
 I am honoured to be elected as member of the Young Academy of Finland for a 4 year term. 
 <u><a href="{{"https://nuortentiedeakatemia.fi/2022/06/08/nuorten-tiedeakatemiaan-22-uutta-jasenta-joukossa-avoimen-jasenhaun-kautta-loytyneita-ehdokkaita/"}}">(link)</a>.</u>
