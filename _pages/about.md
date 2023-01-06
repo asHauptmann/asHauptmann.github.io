@@ -18,7 +18,7 @@ Currently you can find my updated publication list and some news. These pages ma
 
 <b>Learned Reconstruction Methods With Convergence Guarantees: A survey of concepts and applications</b><br>
 In our new survey paper published in the IEEE Signal Processing Magazine, we discuss learned image reconstruction methods that come with convergence guarantees. 
-Helping us to understand these methods theoretically and challenging the the notion that learned approaches are pure black-boxes:
+Helping us to understand these methods theoretically and challenging the notion that learned approaches are pure black-boxes:
 <u><a href="{{"https://ieeexplore.ieee.org/document/10004773"}}">(link)</a>.</u>
 
 
