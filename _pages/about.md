@@ -16,6 +16,10 @@ Currently you can find my updated publication list and some news. These pages ma
 </font>
 
 
+<b>FAME: Flagship of Advanced Mathematics for Sensing, Imaging and Modelling </b><br>
+We are part of the new Finnish Flagship granted by the Research Council of Finland on Applied Mathematics and Inverse Problems. We are looking forward to a productive and exciting time as Flagship of Inverse Problems in Finland:
+<u><a href="{{"https://www.uef.fi/en/article/uef-to-lead-the-new-flagship-of-advanced-mathematics-for-sensing-imaging-and-modelling"}}">(link)</a>.</u>
+
 <b>Learned Reconstruction Methods With Convergence Guarantees: A survey of concepts and applications</b><br>
 In our new survey paper published in the IEEE Signal Processing Magazine, we discuss learned image reconstruction methods that come with convergence guarantees. 
 Helping us to understand these methods theoretically and challenging the notion that learned approaches are pure black-boxes:
