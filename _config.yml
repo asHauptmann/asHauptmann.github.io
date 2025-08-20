@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Personal data"
-  avatar           : "AndreasHauptmann_MFO.jpg"
+  avatar           : #"AndreasHauptmann_MFO.jpg"
   bio              : "Computational Mathematician interested in combining Inverse Problems and data driven methods"
   location         : 
   employer         : "University of Oulu, Finland"
