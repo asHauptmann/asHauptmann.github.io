@@ -1,6 +1,6 @@
 ---
 title: "Convergent regularization in inverse problems and linear plug-and-play denoisers"
-collection: accepted
+collection: published
 authors: 'A. Hauptmann, S. Mukherjee, CB. Schönlieb, F. Sherry'
 date: 2024-04-04
 venue: 'Foundations of Computational Mathematics'
