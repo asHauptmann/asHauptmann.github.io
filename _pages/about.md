@@ -16,9 +16,20 @@ Currently you can find my updated publication list and some news. These pages ma
 </font>
 
 
+
+<b>AequiLoFi: Accurate quantitative imaging with open-source open hardware low-field MRI  </b><br>
+A new Research Council of Finland project has been funded! Together with Mikko Nissi we will build low-field MRI systems and develop robust inversion
+techniques for quantitative MRI with low-cost hardware solutions: 
+<u><a href="{{"https://research.fi/en/results/funding/83025"}}">(link)</a>.</u>
+
+<b>DREAM: Doctoral Education Pilot for Mathematics of Sensing, Imaging and Modelling  </b><br>
+The university of Oulu is part of the Doctoral Pilot DREAM, with 15 PhD students in mathematics, physcis, and medicine: 
+<u><a href="{{"https://fameflagship.fi/dream/"}}">(link)</a>.</u>
+
+
 <b>FAME: Flagship of Advanced Mathematics for Sensing, Imaging and Modelling </b><br>
 We are part of the new Finnish Flagship granted by the Research Council of Finland on Applied Mathematics and Inverse Problems. We are looking forward to a productive and exciting time as Flagship of Inverse Problems in Finland:
-<u><a href="{{"https://www.uef.fi/en/article/uef-to-lead-the-new-flagship-of-advanced-mathematics-for-sensing-imaging-and-modelling"}}">(link)</a>.</u>
+<u><a href="{{"https://fameflagship.fi/"}}">(link)</a>.</u>
 
 <b>Learned Reconstruction Methods With Convergence Guarantees: A survey of concepts and applications</b><br>
 In our new survey paper published in the IEEE Signal Processing Magazine, we discuss learned image reconstruction methods that come with convergence guarantees. 
